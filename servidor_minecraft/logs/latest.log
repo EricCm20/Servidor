@@ -508,3 +508,34 @@ java.lang.NullPointerException: null
 [31May2025 21:24:36.099] [Server thread/INFO] [Config Menus for Forge/]: Server config has been updated by Deyvis
 [31May2025 21:24:47.196] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made Deyvis no longer a server operator
 [31May2025 21:24:49.846] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Set the time to 1
+[31May2025 21:25:23.097] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[31May2025 21:25:44.550] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3012ms or 60 ticks behind
+[31May2025 21:26:48.815] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-242, y=71, z=-273} BlockPos{x=-240, y=71, z=-272}
+[31May2025 21:26:56.300] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made Deyvis a server operator
+[31May2025 21:27:01.904] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Deyvis: Gamerule naturalRegeneration is now set to: true]
+[31May2025 21:27:12.688] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3450ms or 69 ticks behind
+[31May2025 21:27:45.729] [Server thread/INFO] [Config Menus for Forge/]: Server config has been updated by Deyvis
+[31May2025 21:27:55.336] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2448ms or 48 ticks behind
+[31May2025 21:27:58.477] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Deyvis: Set own game mode to Creative Mode]
+[31May2025 21:28:19.194] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Deyvis: Set own game mode to Survival Mode]
+[31May2025 21:28:28.230] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4542ms or 90 ticks behind
+[31May2025 21:29:09.180] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2742ms or 54 ticks behind
+[31May2025 21:29:11.946] [Server thread/INFO] [Config Menus for Forge/]: Server config has been updated by Deyvis
+[31May2025 21:29:30.667] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[31May2025 21:30:20.495] [Server thread/INFO] [Config Menus for Forge/]: Server config has been updated by Deyvis
+[31May2025 21:30:39.228] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2240ms or 44 ticks behind
+[31May2025 21:31:15.793] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Deyvis: Set own game mode to Creative Mode]
+[31May2025 21:31:38.692] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Deyvis: Set own game mode to Survival Mode]
+[31May2025 21:32:27.912] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2174ms or 43 ticks behind
+[31May2025 21:32:51.260] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[31May2025 21:33:03.701] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Deyvis: Set own game mode to Creative Mode]
+[31May2025 21:33:28.102] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2414ms or 48 ticks behind
+[31May2025 21:33:46.392] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Deyvis: Set own game mode to Survival Mode]
+[31May2025 21:33:48.171] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Deyvis has reached the goal [Pray to the Goddess]
+[31May2025 21:34:04.532] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2244ms or 44 ticks behind
+[31May2025 21:34:49.395] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Deyvis: Set own game mode to Creative Mode]
+[31May2025 21:34:49.396] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3108ms or 62 ticks behind
+[31May2025 21:34:59.821] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Deyvis has reached the goal [Statue's Bargain]
+[31May2025 21:35:09.719] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@638d16da
+[31May2025 21:35:09.744] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: _HitnWeb[/127.70.78.170:52697] logged in with entity id 3252 at (-1182.5265713343642, 143.0, -1260.7197765356416)
+[31May2025 21:35:09.753] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: _HitnWeb joined the game

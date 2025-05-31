@@ -111,7 +111,7 @@
 ["External Healing"]
 	#The value vanilla's natural regeneration will be multiplied with. Has no effect if "allowNaturalRegeneration" is disabled
 	#Range: 0.0 ~ 20.0
-	naturalRegenMultiplier = 1.85
+	naturalRegenMultiplier = 0.39
 	#Allow vanilla's natural regeneration. Requires "allowOtherHealingItems" to be true
 	#**WARNING** This sets the gamerule "naturalRegeneration" for all of your worlds internally, so it persists even if you remove the mod
 	allowNaturalRegeneration = true
@@ -122,7 +122,7 @@
 	sleepHealPercentage = 0.75
 	#The value external regen will be multiplied with. Has no effect if "allowOtherHealingItems" is disabled
 	#Range: 0.0 ~ 20.0
-	otherRegenMultiplier = 2.7
+	otherRegenMultiplier = 0.95
 	#Specifies how the vanilla resistance potion effect should reduce damage.
 	#By default, one level of resistance reduces 20% of damage. Changing this value to e.g. 10 will reduce the reduction to 10% damage reduction per level
 	#Range: 1 ~ 40
