@@ -650,3 +650,19 @@ java.util.ConcurrentModificationException: null
 [31May2025 03:38:04.344] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
 [31May2025 03:38:34.524] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: _HitnWeb has made the advancement [Herc was on a Roll!]
 [31May2025 03:39:11.240] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: _HitnWeb has made the advancement [Acquire Hardware]
+[31May2025 03:44:28.153] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Set _HitnWeb's game mode to Creative Mode
+[31May2025 03:44:43.049] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Set _HitnWeb's game mode to Survival Mode
+[31May2025 03:45:24.796] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Set _HitnWeb's game mode to Creative Mode
+[31May2025 03:45:45.498] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Set _HitnWeb's game mode to Survival Mode
+[31May2025 03:46:46.850] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Set _HitnWeb's game mode to Creative Mode
+[31May2025 03:46:56.701] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Set _HitnWeb's game mode to Survival Mode
+[31May2025 03:47:50.747] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Set _HitnWeb's game mode to Creative Mode
+[31May2025 03:47:54.647] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: _HitnWeb has made the advancement [Bottomless bag]
+[31May2025 03:48:19.457] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3226ms or 64 ticks behind
+[31May2025 03:49:13.798] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Set _HitnWeb's game mode to Survival Mode
+[31May2025 03:50:04.141] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: _HitnWeb is bleeding...
+[31May2025 03:50:04.141] [Server thread/WARN] [tombstone/]: The death event of the player _HitnWeb was canceled by another mod
+[31May2025 03:50:04.151] [Server thread/INFO] [tombstone/]: The player _HitnWeb has successfully been saved
+[31May2025 03:50:04.151] [Server thread/INFO] [tombstone/]: The player _HitnWeb has successfully been saved
+[31May2025 03:50:04.151] [Server thread/INFO] [tombstone/]: The player _HitnWeb has successfully been saved
+[31May2025 03:50:04.151] [Server thread/INFO] [tombstone/]: The player _HitnWeb has successfully been saved
