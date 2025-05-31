@@ -632,3 +632,21 @@ java.util.ConcurrentModificationException: null
 [31May2025 03:29:43.897] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-649, y=0, z=-962}
 [31May2025 03:29:43.897] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-648, y=0, z=-962} but found not block entity block Block{minecraft:bedrock} at location
 [31May2025 03:29:43.897] [Server thread/WARN] [net.minecraft.world.chunk.Chunk/]: Tried to load a block entity for block Block{minecraft:bedrock} but failed at location BlockPos{x=-648, y=0, z=-962}
+[31May2025 03:30:13.131] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2200ms or 44 ticks behind
+[31May2025 03:33:46.550] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[31May2025 03:33:49.704] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[31May2025 03:34:05.895] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: No player was found
+[31May2025 03:34:21.302] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Set _HitnWeb's game mode to Creative Mode
+[31May2025 03:35:02.456] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Set _HitnWeb's game mode to Survival Mode
+[31May2025 03:35:51.716] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: _HitnWeb has made the advancement [Sweet Dreams]
+[31May2025 03:35:53.996] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Leatherworker'/4272, l='ServerLevel[world]', x=-930.51, y=66.00, z=-750.42] died, message: 'Leatherworker was shot by Stymphalian Bird'
+[31May2025 03:36:31.019] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2488ms or 49 ticks behind
+[31May2025 03:37:17.845] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Scribe'/4129, l='ServerLevel[world]', x=-933.07, y=66.00, z=-754.07] died, message: 'Scribe was shot by Stymphalian Bird'
+[31May2025 03:37:36.544] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Scribe'/4122, l='ServerLevel[world]', x=-956.23, y=65.00, z=-758.10] died, message: 'Scribe was shot by Stymphalian Bird'
+[31May2025 03:37:58.197] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[31May2025 03:37:59.748] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[31May2025 03:38:01.296] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[31May2025 03:38:02.844] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[31May2025 03:38:04.344] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[31May2025 03:38:34.524] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: _HitnWeb has made the advancement [Herc was on a Roll!]
+[31May2025 03:39:11.240] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: _HitnWeb has made the advancement [Acquire Hardware]
