@@ -576,3 +576,102 @@ java.lang.NullPointerException: null
 [31May2025 21:44:08.067] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 36ms increasing chunk view distance to: 20
 [31May2025 21:44:21.385] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Deyvis has made the advancement [Isn't It Iron Pick]
 [31May2025 21:44:50.162] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3224ms or 64 ticks behind
+[31May2025 21:45:54.159] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [_HitnWeb: Teleported Deyvis to _HitnWeb]
+[31May2025 21:45:55.993] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: _HitnWeb moved too quickly! -10.076737019302186,1.252203340253729,1.6141033301596508
+[31May2025 21:45:59.055] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4716ms or 94 ticks behind
+[31May2025 21:46:02.573] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: _HitnWeb moved too quickly! -8.456588513829843,3.0013359791121417,-4.783546391422988
+[31May2025 21:46:19.153] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@2329de78
+[31May2025 21:46:19.163] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Seljar123xd[/127.47.231.51:52097] logged in with entity id 9436 at (-219.5, 67.0, -259.5)
+[31May2025 21:46:19.166] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Seljar123xd joined the game
+[31May2025 21:46:23.745] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Seljar123xd has made the advancement [Ice and Fire]
+[31May2025 21:46:23.746] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Seljar123xd has made the advancement [Prepair for undeads]
+[31May2025 21:46:23.759] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Deyvis moved too quickly! 7.130959722967532,-0.41999998688697815,-7.023941930440969
+[31May2025 21:46:23.760] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4522ms or 90 ticks behind
+[31May2025 21:46:34.598] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [_HitnWeb: Teleported Seljar123xd to _HitnWeb]
+[31May2025 21:46:35.980] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 52ms decreasing chunk view distance to: 19
+[31May2025 21:46:39.122] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Seljar123xd is bleeding...
+[31May2025 21:46:39.123] [Server thread/WARN] [tombstone/]: The death event of the player Seljar123xd was canceled by another mod
+[31May2025 21:46:39.128] [Server thread/INFO] [tombstone/]: The player Seljar123xd has successfully been saved
+[31May2025 21:46:50.453] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 18ms increasing chunk view distance to: 20
+[31May2025 21:47:18.939] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/10066, l='ServerLevel[world]', x=-895.10, y=80.45, z=-1047.25]
+[31May2025 21:47:35.759] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [_HitnWeb: Teleported Deyvis to _HitnWeb]
+[31May2025 21:47:43.878] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [_HitnWeb: Set the time to 1000]
+[31May2025 21:48:30.200] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: _HitnWeb is bleeding...
+[31May2025 21:48:30.200] [Server thread/WARN] [tombstone/]: The death event of the player _HitnWeb was canceled by another mod
+[31May2025 21:48:30.216] [Server thread/INFO] [tombstone/]: The player _HitnWeb has successfully been saved
+[31May2025 21:48:31.006] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/10532, l='ServerLevel[world]', x=-898.50, y=71.72, z=-1046.39]
+[31May2025 21:48:31.006] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/10532, l='ServerLevel[world]', x=-898.50, y=71.72, z=-1046.39]
+[31May2025 21:48:31.006] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/10533, l='ServerLevel[world]', x=-897.70, y=71.40, z=-1047.46]
+[31May2025 21:48:31.006] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/10533, l='ServerLevel[world]', x=-897.70, y=71.40, z=-1047.46]
+[31May2025 21:48:31.006] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/10534, l='ServerLevel[world]', x=-897.55, y=71.74, z=-1046.72]
+[31May2025 21:48:31.007] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/10534, l='ServerLevel[world]', x=-897.55, y=71.74, z=-1046.72]
+[31May2025 21:48:31.007] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/10535, l='ServerLevel[world]', x=-896.72, y=71.50, z=-1048.52]
+[31May2025 21:48:31.007] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/10535, l='ServerLevel[world]', x=-896.72, y=71.50, z=-1048.52]
+[31May2025 21:48:31.007] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/10536, l='ServerLevel[world]', x=-896.63, y=71.68, z=-1047.54]
+[31May2025 21:48:31.007] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/10536, l='ServerLevel[world]', x=-896.63, y=71.68, z=-1047.54]
+[31May2025 21:48:31.007] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/10537, l='ServerLevel[world]', x=-896.65, y=71.52, z=-1046.35]
+[31May2025 21:48:31.007] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/10537, l='ServerLevel[world]', x=-896.65, y=71.52, z=-1046.35]
+[31May2025 21:48:57.822] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [_HitnWeb: Teleported Deyvis to _HitnWeb]
+[31May2025 21:49:15.630] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Seljar123xd has made the advancement [Stone Age]
+[31May2025 21:49:29.903] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Seljar123xd has made the advancement [Getting an Upgrade]
+[31May2025 21:49:55.248] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Deyvis is bleeding...
+[31May2025 21:49:55.248] [Server thread/WARN] [tombstone/]: The death event of the player Deyvis was canceled by another mod
+[31May2025 21:49:55.262] [Server thread/INFO] [tombstone/]: The player Deyvis has successfully been saved
+[31May2025 21:49:56.647] [Server thread/WARN] [twilightforest/]: Dropping inventory items previously held in reserve for player _HitnWeb (eae8db42-18f1-3fc6-b6d5-921ca185c10c)
+[31May2025 21:49:56.648] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: _HitnWeb is bleeding...
+[31May2025 21:49:56.648] [Server thread/WARN] [tombstone/]: The death event of the player _HitnWeb was canceled by another mod
+[31May2025 21:49:56.664] [Server thread/INFO] [tombstone/]: The player _HitnWeb has successfully been saved
+[31May2025 21:50:18.324] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [_HitnWeb: Teleported Seljar123xd to _HitnWeb]
+[31May2025 21:50:41.458] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@dced492[id=<null>,name=xMaximo_,properties={},legacy=false] (/127.35.235.177:35857) lost connection: Disconnected
+[31May2025 21:50:57.760] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@52eb2348[id=<null>,name=xMaximo_,properties={},legacy=false] (/127.35.235.177:37167) lost connection: Disconnected
+[31May2025 21:51:15.604] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@569cafc5[id=<null>,name=xMaximo_,properties={},legacy=false] (/127.35.235.177:57593) lost connection: Disconnected
+[31May2025 21:51:33.329] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Seljar123xd moved too quickly! -0.6168408536927927,-0.6709083839322858,10.001574840960302
+[31May2025 21:51:33.333] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Deyvis moved too quickly! -3.8513422127615513,0.24918707874468282,9.50382908924405
+[31May2025 21:51:33.349] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5461ms or 109 ticks behind
+[31May2025 21:51:37.267] [Server thread/WARN] [twilightforest/]: Dropping inventory items previously held in reserve for player _HitnWeb (eae8db42-18f1-3fc6-b6d5-921ca185c10c)
+[31May2025 21:51:37.267] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: _HitnWeb is bleeding...
+[31May2025 21:51:37.267] [Server thread/WARN] [tombstone/]: The death event of the player _HitnWeb was canceled by another mod
+[31May2025 21:51:37.270] [Server thread/INFO] [tombstone/]: The player _HitnWeb has successfully been saved
+[31May2025 21:51:45.145] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Seljar123xd moved too quickly! 6.990810549947128,1.9986640208878583,6.972363760163034
+[31May2025 21:51:45.928] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 60ms decreasing chunk view distance to: 19
+[31May2025 21:51:55.291] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Deyvis moved too quickly! 9.716522633225964,0.25799910351527444,2.942471493536459
+[31May2025 21:51:56.416] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8078ms or 161 ticks behind
+[31May2025 21:52:03.962] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 64ms decreasing chunk view distance to: 18
+[31May2025 21:52:10.006] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Deyvis moved too quickly! 1.2319984151841936,-1.2491870787446828,9.940546608401519
+[31May2025 21:52:13.412] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[31May2025 21:52:18.153] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Deyvis moved too quickly! 3.6601486559518435,-4.716362715209172,8.17951457530603
+[31May2025 21:52:18.302] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@2ec5c9fe[id=<null>,name=xMaximo_,properties={},legacy=false] (/127.35.235.177:53879) lost connection: Disconnected
+[31May2025 21:52:20.956] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 51ms decreasing chunk view distance to: 17
+[31May2025 21:52:24.884] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/11948, l='ServerLevel[world]', x=-992.31, y=79.64, z=-690.60]
+[31May2025 21:52:24.884] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/11949, l='ServerLevel[world]', x=-991.74, y=79.44, z=-690.46]
+[31May2025 21:52:32.172] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2584ms or 51 ticks behind
+[31May2025 21:52:54.809] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Deyvis moved too quickly! -7.524620909577379,0.0,-6.777406563460318
+[31May2025 21:52:54.828] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2940ms or 58 ticks behind
+[31May2025 21:52:57.415] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 31ms increasing chunk view distance to: 18
+[31May2025 21:52:58.304] [Server thread/WARN] [twilightforest/]: Dropping inventory items previously held in reserve for player _HitnWeb (eae8db42-18f1-3fc6-b6d5-921ca185c10c)
+[31May2025 21:52:58.304] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: _HitnWeb is bleeding...
+[31May2025 21:52:58.304] [Server thread/WARN] [tombstone/]: The death event of the player _HitnWeb was canceled by another mod
+[31May2025 21:52:58.306] [Server thread/INFO] [tombstone/]: The player _HitnWeb has successfully been saved
+[31May2025 21:53:01.461] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@28c4430d[id=<null>,name=xMaximo_,properties={},legacy=false] (/127.35.235.177:39025) lost connection: Disconnected
+[31May2025 21:53:12.025] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 31ms increasing chunk view distance to: 19
+[31May2025 21:53:18.385] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2297ms or 45 ticks behind
+[31May2025 21:53:33.995] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@5114f01[id=<null>,name=xMaximo_,properties={},legacy=false] (/127.35.235.177:40619) lost connection: Disconnected
+[31May2025 21:53:36.222] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2884ms or 57 ticks behind
+[31May2025 21:53:46.506] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 35ms increasing chunk view distance to: 20
+[31May2025 21:53:53.861] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2673ms or 53 ticks behind
+[31May2025 21:54:09.812] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Deyvis has made the advancement [Suit Up]
+[31May2025 21:54:17.201] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Seljar123xd has made the advancement [Book of Monsters]
+[31May2025 21:54:30.111] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3673ms or 73 ticks behind
+[31May2025 21:54:50.155] [Server thread/WARN] [twilightforest/]: Dropping inventory items previously held in reserve for player _HitnWeb (eae8db42-18f1-3fc6-b6d5-921ca185c10c)
+[31May2025 21:54:50.156] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: _HitnWeb is bleeding...
+[31May2025 21:54:50.156] [Server thread/WARN] [tombstone/]: The death event of the player _HitnWeb was canceled by another mod
+[31May2025 21:54:56.060] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Deyvis moved too quickly! 8.646592680690446,-1.1416851727245216,-5.278462253376915
+[31May2025 21:54:56.064] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2626ms or 52 ticks behind
+[31May2025 21:55:08.090] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Deyvis moved too quickly! 8.964896221582876,4.49598709822348,0.14683684195699698
+[31May2025 21:55:09.418] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Seljar123xd has made the advancement [Acquire Hardware]
+[31May2025 21:55:09.461] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Seljar123xd has made the advancement [Bottomless bag]
+[31May2025 21:55:11.366] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [_HitnWeb: Teleported Deyvis to _HitnWeb]
+[31May2025 21:55:19.156] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 60ms decreasing chunk view distance to: 19
+[31May2025 21:55:19.393] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8355ms or 167 ticks behind
+[31May2025 21:55:34.029] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 50ms decreasing chunk view distance to: 18
+[31May2025 21:55:36.674] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2286ms or 45 ticks behind
