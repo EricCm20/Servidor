@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-05-31 03:48:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2025-05-31 03:28:57 +0000"
@@ -80,6 +86,12 @@
   "minecraft:recipes/building_blocks/magenta_wool": {
     "criteria": {
       "has_white_wool": "2025-05-31 03:19:31 +0000"
+    },
+    "done": true
+  },
+  "relics:obtain/root": {
+    "criteria": {
+      "obtain_relic": "2025-05-31 03:47:54 +0000"
     },
     "done": true
   },
@@ -336,6 +348,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-31 03:48:34 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/pestle_and_mortar": {
     "criteria": {
       "has_item": "2025-05-31 03:18:29 +0000"
@@ -441,6 +459,12 @@
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-05-31 03:18:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-05-31 03:48:34 +0000"
     },
     "done": true
   },
@@ -654,9 +678,21 @@
     },
     "done": true
   },
+  "botania:recipes/botania/lexicon": {
+    "criteria": {
+      "has_alt_item": "2025-05-31 03:48:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2025-05-31 03:26:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-05-31 03:47:54 +0000"
     },
     "done": true
   },
@@ -693,6 +729,12 @@
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2025-05-31 03:37:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-05-31 03:47:54 +0000"
     },
     "done": true
   },
@@ -774,6 +816,12 @@
     },
     "done": true
   },
+  "relics:obtain/squire_bag": {
+    "criteria": {
+      "obtain_relic": "2025-05-31 03:47:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2025-05-31 03:18:29 +0000"
@@ -813,6 +861,12 @@
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2025-05-31 03:25:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-05-31 03:47:54 +0000"
     },
     "done": true
   },
@@ -1092,6 +1146,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-31 03:48:34 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.modded/boomerang_copper": {
     "criteria": {
       "has_copper_ingot": "2025-05-31 03:38:35 +0000"
@@ -1340,8 +1400,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:forest": "2025-05-31 03:52:01 +0000",
       "minecraft:dark_forest": "2025-05-31 03:19:22 +0000",
       "minecraft:river": "2025-05-31 03:19:20 +0000",
+      "minecraft:wooded_hills": "2025-05-31 03:52:42 +0000",
       "minecraft:plains": "2025-05-31 03:14:47 +0000"
     },
     "done": false
@@ -1460,6 +1522,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_red_flower": "2025-05-31 03:48:02 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.arrows_bolts/bolt_diamond": {
     "criteria": {
       "has_feather": "2025-05-31 03:19:11 +0000"
@@ -1571,6 +1639,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/boomerang_iron": {
     "criteria": {
       "has_iron_ingot": "2025-05-31 03:39:11 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mushroom_mines": {
+    "criteria": {
+      "location0": "2025-05-31 03:52:55 +0000"
     },
     "done": true
   },
