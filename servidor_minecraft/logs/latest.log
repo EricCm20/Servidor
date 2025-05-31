@@ -675,3 +675,141 @@ java.lang.NullPointerException: null
 [31May2025 21:55:19.393] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8355ms or 167 ticks behind
 [31May2025 21:55:34.029] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 50ms decreasing chunk view distance to: 18
 [31May2025 21:55:36.674] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2286ms or 45 ticks behind
+[31May2025 21:55:49.106] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Deyvis moved too quickly! -10.018901549209431,0.41999998688697815,-0.5266643973368446
+[31May2025 21:56:06.052] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 26ms increasing chunk view distance to: 19
+[31May2025 21:56:17.683] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: _HitnWeb moved too quickly! 9.537817011690663,0.25799910351527444,-3.3460693896826115
+[31May2025 21:56:17.685] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Deyvis moved too quickly! -8.627364478902791,1.0,5.47640231950129
+[31May2025 21:56:17.694] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4106ms or 82 ticks behind
+[31May2025 21:56:23.255] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [_HitnWeb: Set own game mode to Creative Mode]
+[31May2025 21:56:25.109] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 36ms increasing chunk view distance to: 20
+[31May2025 21:56:31.607] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: _HitnWeb moved too quickly! 7.214361466574246,0.0,7.86562119340681
+[31May2025 21:56:33.067] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: _HitnWeb moved too quickly! 7.036781825126241,0.0,7.688815195778943
+[31May2025 21:56:39.411] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: _HitnWeb moved too quickly! 7.160344119626302,0.0,7.8238268632126164
+[31May2025 21:56:39.432] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Deyvis moved too quickly! 9.248566394914405,2.189703340253729,3.363234428280748
+[31May2025 21:56:39.752] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7064ms or 141 ticks behind
+[31May2025 21:56:49.084] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: _HitnWeb moved too quickly! 6.422675895589464,0.0,7.987896293959125
+[31May2025 21:56:49.574] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 54ms decreasing chunk view distance to: 19
+[31May2025 21:56:58.015] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Deyvis moved too quickly! -4.904169690328672,-0.07840000152587834,8.826775022117431
+[31May2025 21:56:58.017] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: _HitnWeb moved too quickly! 6.449765508251744,-0.24918707874468282,-7.820972441539993
+[31May2025 21:56:58.019] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2781ms or 55 ticks behind
+[31May2025 21:57:03.345] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: _HitnWeb moved too quickly! 5.969416551520112,2.116501367928123,7.817925636080872
+[31May2025 21:57:07.512] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: _HitnWeb moved too quickly! 1.4223851224221562,0.0,9.979362731164088
+[31May2025 21:57:10.204] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 59ms decreasing chunk view distance to: 18
+[31May2025 21:57:19.903] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 29ms increasing chunk view distance to: 19
+[31May2025 21:57:24.655] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: _HitnWeb moved too quickly! 3.4263099005371487,1.1767592750642422,9.474579217136238
+[31May2025 21:57:24.665] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Deyvis moved too quickly! -9.655891288847783,1.2491870787446828,3.116321994202508
+[31May2025 21:57:24.666] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4128ms or 82 ticks behind
+[31May2025 21:57:26.780] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Deyvis moved too quickly! -10.158147978045918,0.08609407931551516,-1.1768241172560465
+[31May2025 21:57:33.208] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: _HitnWeb moved too quickly! -3.420080247952683,0.0,-9.93243401349605
+[31May2025 21:57:33.543] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Deyvis has made the advancement [Stone Age]
+[31May2025 21:57:38.984] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: _HitnWeb moved too quickly! 0.27238056255873744,5.0627646802300035,-8.902105175042038
+[31May2025 21:57:43.760] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: _HitnWeb moved too quickly! 1.7465253097511777,1.4950660194469805,-9.848980276303791
+[31May2025 21:57:46.875] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: _HitnWeb moved too quickly! 6.04681306895759,2.6126589572961336,-7.591004023399478
+[31May2025 21:57:49.314] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 97ms decreasing chunk view distance to: 18
+[31May2025 21:57:49.497] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9859ms or 197 ticks behind
+[31May2025 21:57:53.636] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: _HitnWeb moved too quickly! 2.2795193816079973,0.0,-9.893832879971342
+[31May2025 21:58:07.122] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 51ms decreasing chunk view distance to: 17
+[31May2025 21:58:07.274] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2786ms or 55 ticks behind
+[31May2025 21:58:13.370] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [_HitnWeb: Teleported _HitnWeb to 1200.5, 60.0, 1200.5]
+[31May2025 21:58:21.610] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 31ms increasing chunk view distance to: 18
+[31May2025 21:58:33.139] [Server thread/WARN] [twilightforest/]: Dropping inventory items previously held in reserve for player Seljar123xd (af83f79a-8836-3602-9861-7e1dda9a8d9c)
+[31May2025 21:58:33.139] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Seljar123xd is bleeding...
+[31May2025 21:58:33.139] [Server thread/WARN] [tombstone/]: The death event of the player Seljar123xd was canceled by another mod
+[31May2025 21:58:33.160] [Server thread/INFO] [tombstone/]: The player Seljar123xd has successfully been saved
+[31May2025 21:58:37.861] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 25ms increasing chunk view distance to: 19
+[31May2025 21:58:39.306] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [_HitnWeb: Teleported _HitnWeb to -1199.5, 60.0, -1199.5]
+[31May2025 21:58:50.364] [Server thread/WARN] [twilightforest/]: Dropping inventory items previously held in reserve for player Seljar123xd (af83f79a-8836-3602-9861-7e1dda9a8d9c)
+[31May2025 21:58:50.365] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Seljar123xd is bleeding...
+[31May2025 21:58:50.365] [Server thread/WARN] [tombstone/]: The death event of the player Seljar123xd was canceled by another mod
+[31May2025 21:58:50.366] [Server thread/INFO] [tombstone/]: The player Seljar123xd has successfully been saved
+[31May2025 21:58:52.643] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 31ms increasing chunk view distance to: 20
+[31May2025 21:58:54.053] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [_HitnWeb: Set the time to 1000]
+[31May2025 21:58:58.929] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/15742, l='ServerLevel[world]', x=-994.39, y=79.29, z=-711.39]
+[31May2025 21:58:58.929] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/15742, l='ServerLevel[world]', x=-994.39, y=79.29, z=-711.39]
+[31May2025 21:58:58.929] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/15743, l='ServerLevel[world]', x=-994.60, y=79.73, z=-710.44]
+[31May2025 21:58:58.929] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/15743, l='ServerLevel[world]', x=-994.60, y=79.73, z=-710.44]
+[31May2025 21:58:58.929] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/15744, l='ServerLevel[world]', x=-994.49, y=80.29, z=-710.48]
+[31May2025 21:58:58.929] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/15744, l='ServerLevel[world]', x=-994.49, y=80.29, z=-710.48]
+[31May2025 21:59:01.662] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: _HitnWeb moved too quickly! 4.104640905320821,1.8893875044903723,9.410205331800853
+[31May2025 21:59:03.004] [Server thread/WARN] [twilightforest/]: Dropping inventory items previously held in reserve for player Seljar123xd (af83f79a-8836-3602-9861-7e1dda9a8d9c)
+[31May2025 21:59:03.005] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Seljar123xd is bleeding...
+[31May2025 21:59:03.005] [Server thread/WARN] [tombstone/]: The death event of the player Seljar123xd was canceled by another mod
+[31May2025 21:59:03.036] [Server thread/INFO] [tombstone/]: The player Seljar123xd has successfully been saved
+[31May2025 21:59:25.063] [Server thread/INFO] [net.minecraft.entity.Entity/]: Villager VillagerEntity['Farmer'/12660, l='ServerLevel[world]', x=-912.43, y=71.00, z=-443.94] died, message: 'Farmer was shot by Stymphalian Bird'
+[31May2025 21:59:28.312] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@583137ca
+[31May2025 21:59:28.317] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: xMaximo_[/127.35.235.177:47697] logged in with entity id 16059 at (-233.5, 69.0, -258.5)
+[31May2025 21:59:28.320] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: xMaximo_ joined the game
+[31May2025 21:59:31.464] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: xMaximo_ has made the advancement [Ice and Fire]
+[31May2025 21:59:31.465] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: xMaximo_ has made the advancement [Prepair for undeads]
+[31May2025 21:59:31.478] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3090ms or 61 ticks behind
+[31May2025 21:59:41.738] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [_HitnWeb: Banned xMaximo_: Banned by an operator.]
+[31May2025 21:59:41.765] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: xMaximo_ lost connection: You are banned from this server
+[31May2025 21:59:41.765] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: xMaximo_ left the game
+[31May2025 21:59:52.810] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: Disconnecting com.mojang.authlib.GameProfile@4dc77204[id=1d619986-6903-3f4b-adee-704729d6e358,name=xMaximo_,properties={},legacy=false] (/127.35.235.177:51347): You are banned from this server.
+Reason: Banned by an operator.
+[31May2025 21:59:52.862] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@4dc77204[id=1d619986-6903-3f4b-adee-704729d6e358,name=xMaximo_,properties={},legacy=false] (/127.35.235.177:51347) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[31May2025 21:59:59.609] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: Disconnecting com.mojang.authlib.GameProfile@5eb02d6c[id=1d619986-6903-3f4b-adee-704729d6e358,name=xMaximo_,properties={},legacy=false] (/127.35.235.177:39381): You are banned from this server.
+Reason: Banned by an operator.
+[31May2025 21:59:59.658] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@5eb02d6c[id=1d619986-6903-3f4b-adee-704729d6e358,name=xMaximo_,properties={},legacy=false] (/127.35.235.177:39381) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[31May2025 22:00:23.059] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: Disconnecting com.mojang.authlib.GameProfile@6e6a6057[id=1d619986-6903-3f4b-adee-704729d6e358,name=xMaximo_,properties={},legacy=false] (/127.35.235.177:37527): You are banned from this server.
+Reason: Banned by an operator.
+[31May2025 22:00:23.110] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@6e6a6057[id=1d619986-6903-3f4b-adee-704729d6e358,name=xMaximo_,properties={},legacy=false] (/127.35.235.177:37527) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[31May2025 22:00:34.907] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: Disconnecting com.mojang.authlib.GameProfile@3f5aafbe[id=1d619986-6903-3f4b-adee-704729d6e358,name=xMaximo_,properties={},legacy=false] (/127.35.235.177:57779): You are banned from this server.
+Reason: Banned by an operator.
+[31May2025 22:00:34.958] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@3f5aafbe[id=1d619986-6903-3f4b-adee-704729d6e358,name=xMaximo_,properties={},legacy=false] (/127.35.235.177:57779) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[31May2025 22:00:56.359] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: Disconnecting com.mojang.authlib.GameProfile@368c6fc4[id=1d619986-6903-3f4b-adee-704729d6e358,name=xMaximo_,properties={},legacy=false] (/127.35.235.177:39205): You are banned from this server.
+Reason: Banned by an operator.
+[31May2025 22:00:56.411] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@368c6fc4[id=1d619986-6903-3f4b-adee-704729d6e358,name=xMaximo_,properties={},legacy=false] (/127.35.235.177:39205) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[31May2025 22:01:20.713] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-951, y=67, z=-727} BlockPos{x=-950, y=67, z=-726}
+[31May2025 22:01:26.056] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: Disconnecting com.mojang.authlib.GameProfile@76a9a6c5[id=1d619986-6903-3f4b-adee-704729d6e358,name=xMaximo_,properties={},legacy=false] (/127.35.235.177:57377): You are banned from this server.
+Reason: Banned by an operator.
+[31May2025 22:01:26.109] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@76a9a6c5[id=1d619986-6903-3f4b-adee-704729d6e358,name=xMaximo_,properties={},legacy=false] (/127.35.235.177:57377) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[31May2025 22:01:29.109] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/17288, l='ServerLevel[world]', x=-890.72, y=72.62, z=-1039.34]
+[31May2025 22:01:46.610] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: Disconnecting com.mojang.authlib.GameProfile@4cdfce06[id=1d619986-6903-3f4b-adee-704729d6e358,name=xMaximo_,properties={},legacy=false] (/127.35.235.177:43935): You are banned from this server.
+Reason: Banned by an operator.
+[31May2025 22:01:46.655] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@4cdfce06[id=1d619986-6903-3f4b-adee-704729d6e358,name=xMaximo_,properties={},legacy=false] (/127.35.235.177:43935) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[31May2025 22:02:08.007] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: Disconnecting com.mojang.authlib.GameProfile@5c00dbe5[id=1d619986-6903-3f4b-adee-704729d6e358,name=xMaximo_,properties={},legacy=false] (/127.35.235.177:54625): You are banned from this server.
+Reason: Banned by an operator.
+[31May2025 22:02:08.060] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@5c00dbe5[id=1d619986-6903-3f4b-adee-704729d6e358,name=xMaximo_,properties={},legacy=false] (/127.35.235.177:54625) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[31May2025 22:02:14.510] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
+[31May2025 22:02:14.510] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: disban<--[HERE]
+[31May2025 22:02:16.060] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: Disconnecting com.mojang.authlib.GameProfile@370beae4[id=1d619986-6903-3f4b-adee-704729d6e358,name=xMaximo_,properties={},legacy=false] (/127.35.235.177:35939): You are banned from this server.
+Reason: Banned by an operator.
+[31May2025 22:02:16.105] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@370beae4[id=1d619986-6903-3f4b-adee-704729d6e358,name=xMaximo_,properties={},legacy=false] (/127.35.235.177:35939) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[31May2025 22:02:25.662] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
+[31May2025 22:02:25.663] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: disban xMaximo_<--[HERE]
+[31May2025 22:02:32.007] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: Disconnecting com.mojang.authlib.GameProfile@949f770[id=1d619986-6903-3f4b-adee-704729d6e358,name=xMaximo_,properties={},legacy=false] (/127.35.235.177:41087): You are banned from this server.
+Reason: Banned by an operator.
+[31May2025 22:02:32.067] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@949f770[id=1d619986-6903-3f4b-adee-704729d6e358,name=xMaximo_,properties={},legacy=false] (/127.35.235.177:41087) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[31May2025 22:02:34.605] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Nothing changed. The player is already banned
+[31May2025 22:02:35.106] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Deyvis has made the advancement [Bottomless bag]
+[31May2025 22:02:50.107] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: Disconnecting com.mojang.authlib.GameProfile@6cd8541b[id=1d619986-6903-3f4b-adee-704729d6e358,name=xMaximo_,properties={},legacy=false] (/127.35.235.177:52549): You are banned from this server.
+Reason: Banned by an operator.
+[31May2025 22:02:50.154] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@6cd8541b[id=1d619986-6903-3f4b-adee-704729d6e358,name=xMaximo_,properties={},legacy=false] (/127.35.235.177:52549) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[31May2025 22:03:02.917] [Server thread/WARN] [twilightforest/]: Dropping inventory items previously held in reserve for player Seljar123xd (af83f79a-8836-3602-9861-7e1dda9a8d9c)
+[31May2025 22:03:02.918] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Seljar123xd is bleeding...
+[31May2025 22:03:02.918] [Server thread/WARN] [tombstone/]: The death event of the player Seljar123xd was canceled by another mod
+[31May2025 22:03:02.918] [Server thread/INFO] [tombstone/]: The player Seljar123xd has successfully been saved
+[31May2025 22:03:11.165] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [_HitnWeb: Unbanned xMaximo_]
+[31May2025 22:03:20.669] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@96e0f27
+[31May2025 22:03:20.678] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: xMaximo_[/127.35.235.177:35311] logged in with entity id 17920 at (-233.5, 69.0, -258.5)
+[31May2025 22:03:20.681] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: xMaximo_ joined the game
+[31May2025 22:03:23.556] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: _HitnWeb moved too quickly! 7.509291100781525,-5.0627646802300035,-5.062942674883516
+[31May2025 22:03:23.574] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2836ms or 56 ticks behind
+[31May2025 22:03:31.684] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: xMaximo_ lost connection: Disconnected
+[31May2025 22:03:31.685] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: xMaximo_ left the game
+[31May2025 22:04:27.413] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/18402, l='ServerLevel[world]', x=-1006.71, y=78.67, z=-709.26]
+[31May2025 22:04:27.414] [Server thread/WARN] [net.minecraft.world.TrackedEntity/]: Fetching packet for removed entity ItemEntity['Air'/18402, l='ServerLevel[world]', x=-1006.71, y=78.67, z=-709.26]
+[31May2025 22:04:43.011] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Deyvis has made the advancement [A Seedy Place]
+[31May2025 22:05:26.316] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [_HitnWeb: Set own game mode to Survival Mode]
