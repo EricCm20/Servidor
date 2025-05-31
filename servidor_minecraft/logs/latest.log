@@ -539,3 +539,40 @@ java.lang.NullPointerException: null
 [31May2025 21:35:09.719] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@638d16da
 [31May2025 21:35:09.744] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: _HitnWeb[/127.70.78.170:52697] logged in with entity id 3252 at (-1182.5265713343642, 143.0, -1260.7197765356416)
 [31May2025 21:35:09.753] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: _HitnWeb joined the game
+[31May2025 21:35:17.659] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Deyvis: Set own game mode to Survival Mode]
+[31May2025 21:35:17.669] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7831ms or 156 ticks behind
+[31May2025 21:35:17.704] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: _HitnWeb lost connection: You logged in from another location
+[31May2025 21:35:17.705] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: _HitnWeb left the game
+[31May2025 21:35:17.731] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: _HitnWeb[/127.70.78.170:44579] logged in with entity id 3320 at (-1182.5265713343642, 143.0, -1260.7197765356416)
+[31May2025 21:35:17.742] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: _HitnWeb joined the game
+[31May2025 21:35:32.859] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 49ms decreasing chunk view distance to: 19
+[31May2025 21:35:34.476] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Deyvis: Set own game mode to Creative Mode]
+[31May2025 21:35:48.562] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 23ms increasing chunk view distance to: 20
+[31May2025 21:35:52.890] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2252ms or 45 ticks behind
+[31May2025 21:35:55.558] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Deyvis: Set own game mode to Survival Mode]
+[31May2025 21:36:07.097] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made Deyvis no longer a server operator
+[31May2025 21:36:09.898] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[31May2025 21:36:27.837] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2099ms or 41 ticks behind
+[31May2025 21:36:29.208] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [_HitnWeb: Teleported _HitnWeb to Deyvis]
+[31May2025 21:36:32.452] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Deyvis moved too quickly! -8.687435549023235,-5.0,-1.4780529309558688
+[31May2025 21:36:37.543] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Deyvis lost connection: Disconnected
+[31May2025 21:36:37.543] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Deyvis left the game
+[31May2025 21:36:54.834] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [_HitnWeb: Set the time to 1]
+[31May2025 21:37:00.398] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@341669ff
+[31May2025 21:37:00.412] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Deyvis[/127.158.150.188:46303] logged in with entity id 4526 at (-246.08021749797933, 73.0, -280.62991113210023)
+[31May2025 21:37:00.415] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Deyvis joined the game
+[31May2025 21:37:33.098] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Deyvis has made the advancement [Acquire Hardware]
+[31May2025 21:38:00.832] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2944ms or 58 ticks behind
+[31May2025 21:38:40.223] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2735ms or 54 ticks behind
+[31May2025 21:38:56.969] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: _HitnWeb moved too quickly! -1.5869709776560512,-0.753986201738762,-10.137443125311506
+[31May2025 21:38:56.970] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Deyvis moved too quickly! -10.215360578107948,-0.9564643798524912,0.16159635364607539
+[31May2025 21:38:57.602] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2414ms or 48 ticks behind
+[31May2025 21:39:55.153] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [_HitnWeb: Teleported Deyvis to _HitnWeb]
+[31May2025 21:43:21.641] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2803ms or 56 ticks behind
+[31May2025 21:43:40.962] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: _HitnWeb moved too quickly! -2.2141924034699514,-2.249187078744683,-9.739212806524847
+[31May2025 21:43:40.965] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Deyvis moved too quickly! -7.039545878340277,0.0,-7.2247091253450435
+[31May2025 21:43:40.985] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3147ms or 62 ticks behind
+[31May2025 21:43:53.789] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 56ms decreasing chunk view distance to: 19
+[31May2025 21:44:08.067] [Server thread/INFO] [com.dynamic_view.DynView/]: Mean tick: 36ms increasing chunk view distance to: 20
+[31May2025 21:44:21.385] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Deyvis has made the advancement [Isn't It Iron Pick]
+[31May2025 21:44:50.162] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3224ms or 64 ticks behind
