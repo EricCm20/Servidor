@@ -10632,3 +10632,13 @@ Missing minecraft:mob_effect:
 [03Jun2025 02:59:26.299] [IO-Worker-18/DEBUG] [Smooth Boot/]: Initialized IO-Worker-19
 [03Jun2025 02:59:26.311] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
 [03Jun2025 02:59:26.321] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[03Jun2025 03:04:26.290] [Server thread/DEBUG] [Smooth Boot/]: Initialized IO-Worker-20
+[03Jun2025 03:04:26.291] [IO-Worker-20/DEBUG] [Smooth Boot/]: Initialized IO-Worker-21
+[03Jun2025 03:04:26.303] [IO-Worker-21/DEBUG] [Smooth Boot/]: Initialized IO-Worker-22
+[03Jun2025 03:04:26.311] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[03Jun2025 03:04:26.320] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[03Jun2025 03:09:26.291] [Server thread/DEBUG] [Smooth Boot/]: Initialized IO-Worker-23
+[03Jun2025 03:09:26.292] [IO-Worker-23/DEBUG] [Smooth Boot/]: Initialized IO-Worker-24
+[03Jun2025 03:09:26.297] [IO-Worker-24/DEBUG] [Smooth Boot/]: Initialized IO-Worker-25
+[03Jun2025 03:09:26.309] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[03Jun2025 03:09:26.319] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
